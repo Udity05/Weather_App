@@ -6,7 +6,7 @@ This Weather App is a simple web application built using HTML, CSS, and JavaScri
 
 - Display current temperature in Celsius
 - Display current humidity percentage
-- Display current wind speed in meters per second
+- Display current wind speed in kilometers per hour
 
 ## Technologies Used
 
